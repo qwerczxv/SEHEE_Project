@@ -1,0 +1,8 @@
+2024/04/18-13:45:34.100 1f34 Reusing MANIFEST C:/Users/User/Desktop/StreetBuildings_1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/18-13:45:34.100 1f34 Recovering log #4
+2024/04/18-13:45:34.100 1f34 Reusing old log C:/Users/User/Desktop/StreetBuildings_1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/04/18-13:45:55.673 4e8 Level-0 table #8: started
+2024/04/18-13:45:55.673 4e8 Level-0 table #8: 0 bytes OK
+2024/04/18-13:45:55.677 4e8 Delete type=0 #4
+2024/04/18-13:45:55.677 4e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/04/18-13:45:55.677 4e8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
